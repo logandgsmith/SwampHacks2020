@@ -22,10 +22,18 @@ img {
   height: auto;
 }
 
+.Circle {
+  height: 50px;
+  width: 50px;
+  background-color: #61dafb;
+  border-radius: 50%;
+  display: inline-block;
+}
+
 .Container {
   width: 960px;
   max-width: 100%;
-  padding: 20px;
+  padding: 10px;
   margin: 0 auto;
 }
 
@@ -54,4 +62,19 @@ img {
 .Banner a {
   display: inline-block;
   padding: .5em 1.5em;
+  color: white;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.Banner a:hover {
+  text-decoration: underline;
+}
+
+.Banner a:active {
+  color: #61dafb;
+}
+
+body {
+  background-color: #eeeeee;
 }

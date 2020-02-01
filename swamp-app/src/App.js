@@ -7,7 +7,7 @@ function App() {
       <header className="Banner">
         <div className="Container">
           <h1>
-            <img src="https://vignette.wikia.nocookie.net/speed-city/images/1/1e/BlueCircleIMG.png/revision/latest?cb=20190304215308" width="60" height="20"></img>
+            <span className="Circle"></span>
           </h1>
           <nav class="Main-nav">
             <ul>
@@ -27,8 +27,11 @@ function App() {
       <header className="App-header">
         <h1>SwampHacks 2020 App</h1>
         <h2>Description of What it Does</h2>
+        {/*TODO: Link to autoscroll to actual app*/}
       </header>
-      <p>Test</p>
+      <p>Testing the spacing of the words in ths section so that it 
+        actually looks like a block of text that someone would type. 
+        Here is a shorter sentence.</p>
     </div>
   );
 }
