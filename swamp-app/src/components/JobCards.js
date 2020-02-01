@@ -1,6 +1,6 @@
 import React from 'react';
-import ProductCard from react-ui-cards;
-import jobs from "../config/jobs.json";
+import ProductCard from 'react-ui-cards';
+import jobs from '../config/jobs.json';
 
 class JobCards extends React.Component {
     render() {

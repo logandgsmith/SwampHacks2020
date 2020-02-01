@@ -1,5 +1,6 @@
 import React from 'react';
 import './App.css';
+import JobCards from './components/JobCards.js'
 
 function App() {
   return (
@@ -32,6 +33,8 @@ function App() {
       <p>Testing the spacing of the words in ths section so that it 
         actually looks like a block of text that someone would type. 
         Here is a shorter sentence.</p>
+
+      
       
     </div>
   );
