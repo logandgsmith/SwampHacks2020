@@ -3,7 +3,7 @@
 }
 
 .App-header {
-  background-color: #393e46;
+  background: #393e46 url('./desktop.jpg') right;
   min-height: 75vh;
   display: flex;
   flex-direction: column;
