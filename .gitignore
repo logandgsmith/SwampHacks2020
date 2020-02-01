@@ -1,0 +1,8 @@
+
+swamp-app/.firebaserc
+swamp-app/database.rules.json
+swamp-app/firebase.json
+swamp-app/functions/.eslintrc.json
+swamp-app/functions/index.js
+swamp-app/functions/package-lock.json
+swamp-app/functions/package.json
