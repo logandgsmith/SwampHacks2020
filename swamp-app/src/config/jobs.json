@@ -1,0 +1,13 @@
+[
+    {
+        "photos": [
+            "https://example.com",
+            "https://example.com"
+        ],
+        "price": "1337",
+        "productName": "Example Job Card Info",
+        "description": "This is an example card to fill out the others!",
+        "url": "https://example.com",
+        "buttonText": "Capture!"
+    }
+]
