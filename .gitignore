@@ -6,3 +6,4 @@ swamp-app/functions/.eslintrc.json
 swamp-app/functions/index.js
 swamp-app/functions/package-lock.json
 swamp-app/functions/package.json
+*.sh
