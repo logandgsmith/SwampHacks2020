@@ -4,7 +4,7 @@ import './JobCard.css';
 class CardHeader extends React.Component {
     render() {
         const { image, site } = this.props;
-        var style = {
+        let style = {
             backgroundImage: 'url(' + image + ')'
         };
         return (
