@@ -1,0 +1,24 @@
+.cardWhole {
+    width: 40vw;
+    height: 20vw;
+    margin: 10px 10px;
+    display: inline-flex;
+    background-color: white;
+    text-align: center;
+}
+
+.cardHeader {
+    width: 39vw;
+    display: flex;
+    justify-content: center;
+    overflow: hidden;
+    scroll-behavior: smooth;
+}
+
+.cardBody {
+    width: 39vw;
+    height: 20vw;
+    white-space: normal;
+    text-align: center;
+    overflow: hidden;
+}

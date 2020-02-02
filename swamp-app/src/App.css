@@ -78,3 +78,8 @@ img {
 body {
   background-color: #eeeeee;
 }
+
+.CardPool {
+  flex-wrap: nowrap;
+  flex-direction: row-reverse;
+}

@@ -1,6 +1,7 @@
 import React from 'react';
 import './App.css';
-import JobCards from './components/JobCards.js'
+import jobs from './config/jobs.json';
+import JobCard from './components/JobCard.js';
 
 function App() {
   return (
@@ -34,8 +35,16 @@ function App() {
         actually looks like a block of text that someone would type. 
         Here is a shorter sentence.</p>
 
-      
-      
+      <div className="CardPool">
+        {jobs.map((job, index) => (
+						<JobCard 
+            site = {job.url}
+            image = {job.photo}
+            title = {job.name}
+            text = {job.description}
+            />
+          ))}
+      </div>
     </div>
   );
 }

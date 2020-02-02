@@ -1,65 +1,43 @@
 [
     {
-        "photos": [
-            "https://example.com",
-            "https://example.com"
-        ],
+        "photo": "http://seekvectorlogo.com/wp-content/uploads/2019/04/bitbucket-vector-logo.png",
         "price": "1337",
-        "productName": "Example Job Card Info",
-        "description": "This is an example card to fill out the others!",
-        "url": "https://example.com"
-    },
-    {
-        "photos": [
-            "http://seekvectorlogo.com/wp-content/uploads/2019/04/bitbucket-vector-logo.png"
-        ],
-        "price": "1337",
-        "productName": "BitBucket",
+        "title": "BitBucket",
         "description": " Bitbucket gives teams one place to plan projects, collaborate on code, test, and deploy.",
         "url": "https://bitbucket.org/"
     },
     {
-        "photos": [
-            "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Flogos&psig=AOvVaw0tFMDFi5nyA4EMD6cbD23h&ust=1580687661838000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKjT18bGsecCFQAAAAAdAAAAABAD"
-        ],
+        "photo": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Flogos&psig=AOvVaw0tFMDFi5nyA4EMD6cbD23h&ust=1580687661838000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKjT18bGsecCFQAAAAAdAAAAABAD",
         "price": "1553",
-        "productName": "OpenSK",
+        "title": "OpenSK",
         "description": "OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.",
         "url": "https://github.com/google/OpenSK"
     },
     {
-        "photos": [
-            "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Flogos&psig=AOvVaw0tFMDFi5nyA4EMD6cbD23h&ust=1580687661838000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKjT18bGsecCFQAAAAAdAAAAABAD"
-        ],
+        "photo": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Flogos&psig=AOvVaw0tFMDFi5nyA4EMD6cbD23h&ust=1580687661838000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKjT18bGsecCFQAAAAAdAAAAABAD",
         "price": "1945",
-        "productName": "Sovereign",
+        "title": "Sovereign",
         "description": "A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.",
         "url": "https://github.com/sovereign/sovereign"
     },
     {
-        "photos": [
-            "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Flogos&psig=AOvVaw0tFMDFi5nyA4EMD6cbD23h&ust=1580687661838000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKjT18bGsecCFQAAAAAdAAAAABAD"
-        ],
+        "photo": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Flogos&psig=AOvVaw0tFMDFi5nyA4EMD6cbD23h&ust=1580687661838000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKjT18bGsecCFQAAAAAdAAAAABAD",
         "price": "2021",
-        "productName": "Vanillawebprojects",
+        "title": "Vanillawebprojects",
         "description": "Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries",
         "url": "https://github.com/bradtraversy/vanillawebprojects"
     },
     {
-        "photos": [
-            "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Flogos&psig=AOvVaw0tFMDFi5nyA4EMD6cbD23h&ust=1580687661838000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKjT18bGsecCFQAAAAAdAAAAABAD"
-        ],
+        "photo": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Flogos&psig=AOvVaw0tFMDFi5nyA4EMD6cbD23h&ust=1580687661838000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKjT18bGsecCFQAAAAAdAAAAABAD",
         "price": "8556",
-        "productName": "Chaos",
+        "title": "Chaos",
         "description": "Visualizations of the connections between chaos theory and fractals through the logistic map",
         "url": "https://github.com/jonnyhyman/Chaos"
     },
     {
-        "photos": [
-            "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Flogos&psig=AOvVaw0tFMDFi5nyA4EMD6cbD23h&ust=1580687661838000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKjT18bGsecCFQAAAAAdAAAAABAD"
-        ],
+        "photo": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Flogos&psig=AOvVaw0tFMDFi5nyA4EMD6cbD23h&ust=1580687661838000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKjT18bGsecCFQAAAAAdAAAAABAD",
         "price": "3789",
-        "productName": "SpinningUp",
+        "title": "SpinningUp",
         "description": "An educational resource to help anyone learn deep reinforcement learning.",
         "url": "https://github.com/openai/spinningup"
     }
