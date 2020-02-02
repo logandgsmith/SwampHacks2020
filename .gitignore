@@ -7,3 +7,6 @@ swamp-app/functions/index.js
 swamp-app/functions/package-lock.json
 swamp-app/functions/package.json
 *.sh
+
+.idea/
+node_modules/

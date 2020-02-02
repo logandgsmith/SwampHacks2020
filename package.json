@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "name": "SwampHacks2020",
+  "workspaces": [
+    "swamp-app",
+    "swamp-server"
+  ],
+  "scripts": {},
+  "dependencies": {
+    "concurrently": "^5.1.0"
+  }
+}
