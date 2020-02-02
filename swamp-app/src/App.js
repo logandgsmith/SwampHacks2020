@@ -10,7 +10,7 @@ function App() {
           <h1>
             <span className="Circle"></span>
           </h1>
-          <nav class="Main-nav">
+          <nav className="Main-nav">
             <ul>
               <li>
                 <a href="#">Home</a>
@@ -26,8 +26,8 @@ function App() {
         </div>
       </header>
       <header className="App-header">
-        <h1>SwampHacks 2020 App</h1>
-        <h2>Description of What it Does</h2>
+        <h1>Open Source Bounty Hunter</h1>
+        <h2>Solve Problems. Hunt Bugs. Collect Bounties.</h2>
         {/*TODO: Link to autoscroll to actual app*/}
       </header>
       <p>Testing the spacing of the words in ths section so that it 
